@@ -1,0 +1,1 @@
+export default  () => <p>This is a Next app, there are many like it but this one is mine </p>
